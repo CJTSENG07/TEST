@@ -1,11 +1,14 @@
 [
-  {"name":"google pixle 3",
+  {
+    "name":"google pixle 3",
    "price":27770
   },
-  {"name":"chromo book",
+  {
+    "name":"chromo book",
    "price":12000
   },
-  {"name":"google pixle 5"
+  {
+    "name":"google pixle 5"
    "price":55555
   }
 ]
